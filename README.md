@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Danielle 👋
 
-<!--
-**danielledefrance/danielledefrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Where cognition meets code.** 🧠 🔮
 
-Here are some ideas to get you started:
+I spent a decade in operations, untangling workflows, building SOPs,
+and translating between tech teams and the people who use the tools.
+Now I'm studying computer science, with a growing interest in how
+people think and how humans can coexist with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on a daily planner app that pulls together schedule, sleep, and weather data
+- ☕ Coursework code is in Java 
+- 🌱 Learning Python and SQL
+- 🎨 Exploring creative coding with p5.js and music with Tone.js 🎶
+- 👯 Looking to collaborate on projects where tech meets art and music
+- 💬 Ask me about operations, process design, and turning messy workflows into simple ones
+- ⚡ Fun fact: I'm a registered yoga teacher 🧘‍♀️
+
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-de-france-8534b684/)
